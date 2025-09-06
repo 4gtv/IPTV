@@ -1,0 +1,28 @@
+{
+  "wallpaper": "file://4gyt.jpg",
+ "lives": [
+    {
+      "name": "四季直播",
+      "type": 0,
+      "playerType":2,
+      "url": "file://4gyt.txt"
+    }
+  ],
+  "sites": [
+    {
+		"key": "4gtv",
+		"name": "四季影視",
+		"type": 3,
+		"api": "",
+		"ext": ""
+	}
+  ],
+"ads": [
+"static-mozai.4gtv.tv",
+"mozai.4gtv.tv",
+"www.googletagmanager.com",
+"www.google-analytics.com",
+"s3t3d2y8.afcdn.net",
+"4gtvfreepcvod-cds.cdn.hinet.net"
+       ]
+}
