@@ -1,11 +1,11 @@
 {
-  "wallpaper": "file://4gyt.jpg",
+  "wallpaper": "https://raw.githubusercontent.com/4gtv/IPTV/refs/heads/main/4gyt.jpg",
  "lives": [
     {
       "name": "四季直播",
       "type": 0,
       "playerType":2,
-      "url": "file://4gyt.txt"
+      "url": "https://raw.githubusercontent.com/4gtv/IPTV/refs/heads/main/4gyt.txt"
     }
   ],
   "sites": [
