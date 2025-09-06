@@ -1,0 +1,308 @@
+📡新聞直播,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0 (Linux; U; Android 11; zh-cn; M2102J2SC Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+
+鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+壹新聞,https://www.kds.tw/tv-show-20105-1.html
+東森新聞HD,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+中天新聞,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
+TVBS新聞HD,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+三立新聞iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+寰宇新聞台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=4&ch=280
+東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
+非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
+SBN全球財經台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
+中視新聞HD,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+台視新聞HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
+CNBC Asia財經,https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235
+寰宇新聞,https://www.4gtv.tv/channel/litv-longturn14?set=4&ch=36
+
+📺YouTube,#genre#
+Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
+player=2
+ua=okhttp/5.0.0-alpha.14
+
+中天新聞,https://www.youtube.com/live/vr3XyVCR4T0
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
+寰宇財經,https://www.youtube.com/watch?v=EnuEsX3FSh0
+運通財經,https://www.youtube.com/watch?v=CoRC4A9hJuM
+鳳凰資訊,https://www.youtube.com/watch?v=BLaQVW5oUGU
+鳳凰資訊,https://www.youtube.com/watch?v=LNux6O0Fj6A
+ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
+LiveNOW FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
+CCTV4國際,https://www.youtube.com/watch?v=f6Kq93wnaZ8
+
+🍱豪華套餐,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0 (Linux; U; Android 11; zh-cn; M2102J2SC Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+
+HITS頻道,https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
+靖天電影,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
+影迷數位電影,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
+AMC電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
+大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
+中視HD,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+華視 HD,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
+客家電視台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
+八大綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+中視菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
+靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
+靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223
+阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
+Global Trekker,https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
+原住民族電視台,https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=273
+LiveABC互動英語頻道,https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
+達文西頻道,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
+ELTV生活英語台,https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
+Nick Jr兒童頻道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
+尼克兒童頻道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
+DreamWorks夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
+靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
+靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+影迷紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
+MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森購物1台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
+東森購物2台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
+東森購物3台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
+東森購物5台,https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
+民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
+豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
+靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
+Nice TV靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
+靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
+TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
+ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
+Lifetime 娛樂頻道,https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
+電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
+TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
+MTV Live HD音樂頻道,https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
+Mezzo Live HD,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
+CLASSICA古典樂,https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
+時尚運動X,https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=69
+車迷TV,https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
+GINX Esports TV,https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
+TechStorm,https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=181
+Pet Club TV,https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=182
+民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
+滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
+亞洲旅遊台,https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250
+fun探索娛樂台,https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
+幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
+Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
+History 歷史頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
+LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
+TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
+公視戲劇,https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
+民視影劇台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
+龍華日韓台,https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
+龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+八大精彩台,https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172
+靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
+靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+CI罪案偵查頻道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
+視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
+影迷數位紀實台,https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
+金光布袋戲,https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
+ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
+采昌影劇,https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
+靖天映畫,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
+CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
+我的歐洲電影,https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176
+好消息2台,https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8
+好消息,https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
+大愛二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
+人間衛視,https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
+半島國際新聞台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
+VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
+DW德國之聲,https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
+國會頻道1,https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
+國會頻道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
+TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
+TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
+經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
+經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
+兒童卡通台,https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=269
+精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
+戲劇免費看,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
+博斯高球台,https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
+博斯運動一台,https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
+博斯無限台,https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
+博斯網球台,https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
+TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
+智林體育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
+
+🌍國際綜合,#genre#
+player=2
+ua=Mozilla/5.0 (Linux; U; Android 11; zh-cn; M2102J2SC Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+BBC News,http://125.227.210.55:8165/VideoInput/play.ts
+CNN News,http://125.227.210.55:8166/VideoInput/play.ts
+NHK,http://125.227.210.55:35802/VideoInput/play.ts
+KOREA,http://125.227.210.55:48553/VideoInput/play.ts
+
+🇨🇳央視頻道,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+CCTV1綜合,http://php.jdshipin.com/tvod/iptv.php?id=rthk33
+CCTV2財經,http://111.43.126.240:9003/hls/14/index.m3u8
+CCTV3綜藝,http://111.43.126.240:9003/hls/15/index.m3u8
+CCTV4國際,http://111.43.126.240:9003/hls/16/index.m3u8
+CCTV5體育,http://111.43.126.240:9003/hls/17/index.m3u8
+CCTV6電影,http://111.43.126.240:9003/hls/19/index.m3u8
+CCTV7國防軍事,http://111.43.126.240:9003/hls/20/index.m3u8
+CCTV8電視劇,http://111.43.126.240:9003/hls/21/index.m3u8
+CCTV9紀錄,http://111.43.126.240:9003/hls/22/index.m3u8
+CCTV10科教,http://111.43.126.240:9003/hls/23/index.m3u8
+CCTV11戲劇,http://111.43.126.240:9003/hls/24/index.m3u8
+CCTV12社會與法,http://111.43.126.240:9003/hls/25/index.m3u8
+CCTV13新聞,http://111.43.126.240:9003/hls/26/index.m3u8
+CCTV14少兒,http://111.43.126.240:9003/hls/27/index.m3u8
+CCTV15音樂,http://111.43.126.240:9003/hls/28/index.m3u8
+CCTV16奧林匹克,http://111.43.126.240:9003/hls/29/index.m3u8
+CCTV17農業農村,http://111.43.126.240:9003/hls/30/index.m3u8
+浙江衛視,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南衛視,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
+湖南衛視,http://14.19.178.150:4022/udp/239.77.0.88:5146
+江蘇衛視,http://117.72.194.224:656/zb.php?id=jsws
+陝西衛視,http://117.72.194.224:656/zb.php?id=sxws
+河南衛視,http://117.72.194.224:656/zb.php?id=hnws
+江西衛視,http://117.72.194.224:656/zb.php?id=jxws
+廣東衛視,http://117.72.194.224:656/zb.php?id=gdws
+大灣區衛視,http://117.72.194.224:656/zb.php?id=dwqws
+東方衛視,http://117.72.194.224:656/zb.php?id=dfws
+湖北衛視,http://117.72.194.224:656/zb.php?id=hubws
+吉林衛視,http://117.72.194.224:656/zb.php?id=jlws
+青海衛視,http://117.72.194.224:656/zb.php?id=qhws
+海南衛視,http://117.72.194.224:656/zb.php?id=hinws
+吉林衛視,http://117.72.194.224:656/zb.php?id=jlws
+青海衛視,http://117.72.194.224:656/zb.php?id=qhws
+東方影視,http://117.72.194.224:656/zb.php?id=dfys
+上海新聞,http://117.72.194.224:656/zb.php?id=shxwzh
+第一財經,http://117.72.194.224:656/zb.php?id=dycj
+
+🛰咪咕直播,#genre#
+
+CCTV1綜合,http://117.72.194.224:656/zb.php?id=cctv1
+CCTV-1綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+CCTV2財經,http://117.72.194.224:656/zb.php?id=cctv2
+CCTV-2財經,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+CCTV3綜藝,http://117.72.194.224:656/zb.php?id=cctv3
+CCTV-3綜藝,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
+CCTV4國際,http://117.72.194.224:656/zb.php?id=cctv4
+CCTV-4中文國際,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
+CCTV-4歐洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
+CCTV-4美洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
+CCTV5體育,http://117.72.194.224:656/zb.php?id=cctv5
+CCTV-5體育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
+CCTV5+賽事,http://111.43.126.240:9003/hls/18/index.m3u8
+CCTV-5+體育賽事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
+CCTV6電影,http://117.72.194.224:656/zb.php?id=cctv6
+CCTV-6電影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
+CCTV-7國防軍,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+CCTV7國防軍事,http://117.72.194.224:656/zb.php?id=cctv7
+CCTV8電視劇,http://117.72.194.224:656/zb.php?id=cctv8
+CCTV-8電視劇,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
+CCTV9紀錄,http://117.72.194.224:656/zb.php?id=cctv9
+CCTV-9紀錄,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+CCTV10科教,http://117.72.194.224:656/zb.php?id=cctv10
+CCTV-10科教,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+CCTV11戲劇,http://117.72.194.224:656/zb.php?id=cctv11
+CCTV-11戲曲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
+CCTV12社會與法,http://117.72.194.224:656/zb.php?id=cctv12
+CCTV-12社會與法,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+CCTV13新聞,http://117.72.194.224:656/zb.php?id=cctv13
+CCTV-13新聞,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+CCTV14少兒,http://117.72.194.224:656/zb.php?id=cctv14
+CCTV-14兒童,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
+CCTV15音樂,http://117.72.194.224:656/zb.php?id=cctv15
+CCTV-15音樂,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+CCTV17農業農村,http://117.72.194.224:656/zb.php?id=cctv17
+CCTV-17農業農村,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
+CCTV發現之旅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
+CCTV老故事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
+CCTV中學生,http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
+CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
+CGTN紀錄,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnjl
+CCTV西班牙文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtne
+CCTV法文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnf
+CCTV阿拉伯文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtna
+CCTV俄文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnr
+東方衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
+重慶衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cqws
+吉林衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jlws
+遼寧衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lnws
+內蒙古衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nmws
+寧夏衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nxws
+甘肅衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gsws
+青海衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
+陝西衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
+山東衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sdws
+河南衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hnws
+湖北衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
+湖南衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hunws
+江西衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
+江蘇衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
+東南衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
+海峽衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxws
+廣東衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
+大灣區衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dwqws
+廣西衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gxws
+雲南衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ynws
+貴州衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gzws
+新疆衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xjws
+西藏衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzws
+海南衛視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
+四海釣魚,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shdy
+CHC動作電影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=chcdzdy
+CHC家庭劇院,http://mg.hmysapp.cn:177/ckmg/zb.php?id=chcjtdy
+東方影視,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfys
+上海新聞綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
+上海第一財經,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
+上視紀實人文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shjsrw
+上海外文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shics
+法治天地,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fztd
